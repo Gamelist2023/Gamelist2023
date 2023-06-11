@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html  class="back" lang=ja>
+<head>
+	<meta name="viewport" content="width=device-width">
+<title>discord</title>
+<style> 
+
+.back {background-image: url(https://kabekin.com/uploads/converted/21/03/12/1005765712-milky_way_sky-1920x1080-0nv-1920x1080-MM-100.jpg);
+
+}
+</style></head>
+<body>
+<h1>discord||PEX鯖スマホ用</h1>
+<br>
+<h2>目次</h2>
+<oi>
+<li>まだ目次の設定はしてません</li>
+</oi>
+<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1069498529866842173', // 
+        channel: '1069498532068872193' // htmlコードを勝手に使わないでね
+    })
+</script>
+</body></html>
